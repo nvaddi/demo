@@ -8,6 +8,6 @@ public class DemoController {
 
     @RequestMapping("/msg")
     public String message(){
-        return "My Name is Niranjan";
+        return "My App Deploy to Azure Successfully";
     }
 }
